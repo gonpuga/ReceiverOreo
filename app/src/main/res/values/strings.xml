@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ReceiverOreo</string>
+    <string name="permission_request">PERMISSIONS REQUEST</string>
+    <string name="location_needed">Location Service needs ACCESS_FINE_LOCATION permission. Please, enable it</string>
+    <string name="restart_device">Please, restart device to start location service</string>
+    <string name="jobscheduler_example">JobScheduler Example</string>
+</resources>
